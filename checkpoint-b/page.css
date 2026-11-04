@@ -1,0 +1,29 @@
+/* Checkpoint B — your styling. Build it to checkpoint-b/spec.md. */
+
+body {
+  font-family: system-ui, sans-serif;
+  background-color: #fdfdfb;
+  color: #1a1a1a;
+  max-width: 40rem;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+h1 {
+  color: #0b6e4f;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+}
+
+.goods-item {
+  padding: 0.75rem 1rem;
+  color: #1a1a1a;
+  background-color: #eef6f2;
+  border-radius: 0.5rem;
+  margin-bottom: 0.5rem;
+  list-style: none;
+}
